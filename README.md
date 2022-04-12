@@ -6,9 +6,11 @@ This project is part of the Udacity data analysis nanodegree.
 
 In this project, I am exploring data related to bike share systems for three major cities in the United States; Chicago, New York City, and Washington. After taking input from the user, this script answers interesting questions about the data by computing descriptive statistics using [pandas library](https://pandas.pydata.org/pandas-docs/stable/index.html).
 
+![demo gif](data/Explore.gif)
 ## Requirements
 
 Language: Python 3.7 or above
+Libraries : pandas
 
 ## Usage
 

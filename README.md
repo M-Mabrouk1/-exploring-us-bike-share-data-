@@ -9,7 +9,7 @@ In this project, I am exploring data related to bike share systems for three maj
 ![demo gif](data/Explore.gif)
 ## Requirements
 
-Language: Python 3.7 or above
+Language: Python 3.7 or above\
 Libraries : pandas
 
 ## Usage
